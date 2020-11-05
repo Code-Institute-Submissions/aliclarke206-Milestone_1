@@ -1,26 +1,30 @@
-Mile Stone Project One. Mock Sports Injury Clinic Website
+# Mile Stone Project One. Mock Sports Injury Clinic Website
 One or two paragraphs providing an overview of your project.
 
 Essentially, this part is your sales pitch.
 
-UX
+## UX
 
-Features
+## Features
 
 
-1.Existing Features
+1. Existing Features
 
 2. Features Left to Implement
 
-Technologies Used
+## Technologies Used
 1. BootStrap
 2. Balsamiq wireframes
+3. Fontawesome
+4. Google Font
+5. Gitpod
+6. Shuttershock
+7. w3schools.com
 
 
+## Deployment
 
-Deployment
-
-Credits
+## Credits
 1. content 
 2. Media 
-3.Acknowledgements
+3. Acknowledgements
