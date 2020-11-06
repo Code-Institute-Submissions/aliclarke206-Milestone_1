@@ -6,7 +6,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 180px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -19,6 +18,13 @@
     margin-top: 50px;
     color: #ee5566;
 }
+
+/* ----------------------------------------Special paddings/margins/text */
+
+.uppercase {
+    text-transform: uppercase;
+}
+
 /* ----------------------------------------jumbotron */
 .jumbotron {
     text-align: center;
@@ -72,4 +78,32 @@ footer {
 
 .social-links li a i:hover {
     background: #e84610;
+}
+/* ----------------------------------------Contact Us */
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.call_out_heading {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.contacts {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.contacts i {
+    color: #e84610;
+    padding: 5px;
 }
