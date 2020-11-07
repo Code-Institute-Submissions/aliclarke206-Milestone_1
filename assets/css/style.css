@@ -35,6 +35,12 @@
     text-align: center;
 }
 
+/* ----------------------------------------carousel */
+.carousel-inner .carousel-item img {
+  width:640px;
+  height:360px;
+}
+
 /* ----------------------------------------Services */
 .services p {
     display: block;
@@ -98,12 +104,6 @@ button[type="submit"] {
     padding-top: 30px;
 }
 
-.contacts {
-    text-align: center;
-    padding-top: 30px;
-}
-
 .contacts i {
     color: #e84610;
-    padding: 5px;
 }
