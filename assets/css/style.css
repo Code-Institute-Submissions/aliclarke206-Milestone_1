@@ -124,3 +124,11 @@ button[type="submit"] {
 .contacts i {
     color: #e84610;
 }
+
+iframe {
+    width: 90%;
+    height: 90%;
+    padding-top: 20px;
+    text-align: center;
+    overflow: auto;
+}
