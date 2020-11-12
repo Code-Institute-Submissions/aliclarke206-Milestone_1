@@ -115,6 +115,12 @@
   height:360px;
 }
 
+.carousel-caption {
+    font-weight: 300;
+    font-size: 20px;
+    color: #0e0d0d
+}
+
 /* ----------------------------------------Services */
 .services p {
     display: block;
@@ -184,9 +190,19 @@ button[type="submit"] {
 
 iframe {
     width: 90%;
-    height: 90%;
-    padding-top: 20px;
+    height: 100%;
+    padding-top: 30px;
     padding-left: 20px;
+    padding-bottom: 10px;
     text-align: center;
     overflow: auto;
 }
+
+/* ----------------------------------------About us */
+
+.about-us {
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
