@@ -1,5 +1,19 @@
-# Mile Stone Project One. Mock Sports Injury Clinic Website
-One or two paragraphs providing an overview of your project.
+# Mile Stone Project One
+# Sports Injury Clinic Website
+
+A comprehensive website designed to make it easy for potential new clients and existing clients to attain valuable information about the buisness and its services. 
+
+###Buiness Goals
+1. Easy to use and find information
+2. Customers to learn about therapists and services provided 
+3. Encourage a point of contact for potenial appointment
+4. 
+
+###Customer Goals
+1. Find information on services (What do they provide?)
+2. Where can I find them? 
+3. Reviews and ratings
+4. Social media links
 
 Essentially, this part is your sales pitch.
 
@@ -9,6 +23,7 @@ Essentially, this part is your sales pitch.
 
 
 1. Existing Features
+
 
 2. Features Left to Implement
 
