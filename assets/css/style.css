@@ -25,11 +25,13 @@
 }
 
 /* ---------------------------------------- Nav Bar */
-
+nav ul{
+     display: flex;
+    justify-content: space-between;
+}
 
 .nav-item {
-    display: flex;
-    justify-content: space-between;
+    padding-left: 50px;
     height: 100%;
     padding: 35px;
     padding-top: 5px;
@@ -62,12 +64,6 @@
 .carousel-inner .carousel-item .image_3 {
   width:80%;
   height:100%;
-}
-
-.carousel-caption {
-    font-weight: 400;
-    font-size: 20px;
-    color: #0e0d0d
 }
 
 .carousel-inner img {
@@ -113,6 +109,7 @@ footer {
     min-height: 120px;
     margin: 0;
     text-align: center;
+    padding-top: 2em;
 }
 
 .social-links li a i {
@@ -171,19 +168,14 @@ iframe {
     display: inline-block;
     text-align: center;
     background-color: #e84610;
-    margin-top: 0;
-    margin-bottom: 0;
-    height: 70px;
-    font-size: 40px;
-    font-weight: 300;
-    border: none;
-    padding-bottom: 20px;
+    border: none; 
 }
 
-.book-now-button{
-    text-align: center;
+.book-me-btn {
     padding-bottom: 2em;
+    text-align: center;
 }
+
 
 /* ----------------------------------------About us */
 

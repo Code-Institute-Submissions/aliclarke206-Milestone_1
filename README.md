@@ -2,6 +2,8 @@
 # Sports Injury Clinic Website
 
 A comprehensive website designed to make it easy for potential new clients and existing clients to attain valuable information about the buisness and its services. 
+The website includes information about the services provided in the clinic, the skills and qualifications of the staff, contact information and links on where to find the clinic. 
+
 
 ###Buiness Goals
 1. Easy to use and find information
@@ -18,6 +20,21 @@ A comprehensive website designed to make it easy for potential new clients and e
 Essentially, this part is your sales pitch.
 
 ## UX
+
+###Stragegy
+
+A site designed for patients both new and existing to obatin information about the clinics services and therapist, as well as booking and contact information in a user friendly way.
+
+###Scope
+
+For patients, I wanted to provide them with easy accesible links to information they required about the clinic. 
+
+###Structure
+
+###Skeleton
+
+###Surface
+The minamilist colour scheme was to create a clean clinical feel that coincides with a medical site. 
 
 ## Features
 
