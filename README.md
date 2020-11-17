@@ -5,13 +5,13 @@ A comprehensive website designed to make it easy for potential new clients and e
 The website includes information about the services provided in the clinic, the skills and qualifications of the staff, contact information and links on where to find the clinic. 
 
 
-###Buiness Goals
+### Buiness Goals
 1. Easy to use and find information
 2. Customers to learn about therapists and services provided 
 3. Encourage a point of contact for potenial appointment
 4. increase bookings 
 
-###Customer Goals
+### Customer Goals
 1. Find information on services (What do they provide?)
 2. Where can I find them? 
 3. Reviews and ratings
@@ -21,21 +21,21 @@ Essentially, this part is your sales pitch.
 
 ## UX
 
-###Strategy
+### Strategy
 
 A site designed for patients both new and existing to obatin information about the clinics services and therapists.
 It also a place where patients can see whats on offer and hear customer reviews and make further enquiries or bookings. 
 
 
-###Scope
+### Scope
 
 For patients, I wanted to provide them with easy accesible links to information they required about the clinic. 
 
-###Structure
+### Structure
 
-###Skeleton
+### Skeleton
 
-###Surface
+### Surface
 The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. 
 
 ## Features
