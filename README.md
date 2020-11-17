@@ -34,7 +34,7 @@ For patients, I wanted to provide them with easy accesible links to information 
 ### Structure
 
 ### Skeleton
-Balsamiq wireframes were used to design rough outlines of what the dite would look like.
+Balsamiq wireframes were used to design rough outlines of what the site would look like.
 
 ### Surface
 The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. 
