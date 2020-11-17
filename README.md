@@ -34,6 +34,7 @@ For patients, I wanted to provide them with easy accesible links to information 
 ### Structure
 
 ### Skeleton
+Balsamiq wireframes were used to design rough outlines of what the dite would look like.
 
 ### Surface
 The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. 
@@ -55,12 +56,14 @@ It would facilitate a quick and easy bookling process.
 2. HTML
 3. BootStrap
 4. Balsamiq wireframes
+* used to create mock ups of what the site will look like
 5. Fontawesome
 6. Google Font
 7. Gitpod
 8. Shuttershock
 9. w3schools.com
-10. HTML Formater 
+10. [HTML Formater](https://www.freeformatter.com/html-formatter.html#ad-output)
+* To beatify HTML code
 
 ## Testing
 
@@ -74,6 +77,8 @@ The email input must contain a valid email address and numbers are only accepted
 The iframe succesfully naviagates to the google maps link of the location of the clinc.
 
 the link for more information on the Alter G also successfully navigates the user to the Alter G homepage.
+
+The HTML was checked using the [W3C validator Service](https://validator.w3.org/#validate_by_input)
 ## Deployment
 
 ## Credits
@@ -81,11 +86,17 @@ the link for more information on the Alter G also successfully navigates the use
 2. Media 
 images
 
-[http://dundalkphysicaltherapy.com/](Carosel image one)
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fintermountainhealthcare.org%2Fblogs%2Ftopics%2Flive-well%2F2017%2F12%2Fpain-in-the-neck-the-benefits-of-physical-therapy-and-knowing-when-you-need-it%2F&psig=AOvVaw0xvDdEx0uU1Jbr5YwXk4Cc&ust=1604656915541000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCKDnuYCT6-wCFQAAAAAdAAAAABAD
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fpost.healthline.com%2Fwp-content%2Fuploads%2F2020%2F05%2FAcupuncture_732x549-thumbnail.jpg&imgrefurl=https%3A%2F%2Fwww.healthline.com%2Fhealth-news%2Facupuncture-effective-reducing-indigestion-symptoms&tbnid=bQTc_5ZDJusAUM&vet=12ahUKEwiY8L3S8f3sAhV0XRUIHYnzA94QMygAegUIARDOAQ..i&docid=lKnZYAqcxFuCDM&w=732&h=549&q=acupuncture&ved=2ahUKEwiY8L3S8f3sAhV0XRUIHYnzA94QMygAegUIARDOAQ
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adverts.ie%2Fhealthcare%2Fcryospa-ice-bath-unit%2F13193285&psig=AOvVaw0fi6kH5OMHr8Jlhn7EoV34&ust=1605300662267000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCYgvvx_ewCFQAAAAAdAAAAABAD
-google maps
+[Carosel image one](http://dundalkphysicaltherapy.com/)
+
+[Physical Therapy Image](https://intermountainhealthcare.org/blogs/topics/live-well/2017/12/pain-in-the-neck-the-benefits-of-physical-therapy-and-knowing-when-you-need-it/)
+
+[Acupuncture Image](https://www.healthline.com/health-news/acupuncture-effective-reducing-indigestion-symptoms)
+
+[Cyro Spa Image](https://www.adverts.ie/healthcare/cryospa-ice-bath-unit/13193285)
+
+[Iframe Image](http://google.ie/maps)
+
+[Alter-g Treadmill](https://fredericksportandspine.com/alter-g-anti-gravity-treadmill/)
 
 3. Acknowledgements
 

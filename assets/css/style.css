@@ -4,6 +4,12 @@
 .body{
     padding: 20px;
 }
+
+/* ---------------------------------------- background colours */
+
+.about-us{
+    background-color: #bdeeeb;
+}
 /* ---------------------------------------- logo and name */
 
 .logo {
@@ -46,7 +52,12 @@ nav ul{
 .nav-link{
     text-align: center;
 }
+/* ---------------------------------------- landing page */
 
+.hero-image{
+    background: url(../images/physical1.jpg);
+    
+}
 
 /* ----------------------------------------Special paddings/margins/text */
 
