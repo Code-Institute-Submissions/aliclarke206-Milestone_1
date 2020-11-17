@@ -110,6 +110,9 @@ nav ul{
 .services p {
     display: block;
     text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 1.2rem;
 }
 
 .services h2 {
