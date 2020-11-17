@@ -16,6 +16,7 @@ The website includes information about the services provided in the clinic, the 
 2. Where can I find them? 
 3. Reviews and ratings
 4. Social media links
+5. Getting the practical information
 
 Essentially, this part is your sales pitch.
 
@@ -29,20 +30,28 @@ It also a place where patients can see whats on offer and hear customer reviews 
 
 ### Scope
 
-For patients, I wanted to provide them with easy accesible links to information they required about the clinic. 
+For patients, I wanted to provide them with easy accesible links to information they required about the clinic.
+Provide information about each therapist, each service that is provided, location, openning hours and how to make an appointment.
+Providing the practical information that is required by the customer. 
 
 ### Structure
 
 ### Skeleton
+Good interface and Navigation design. Navigation is common and conventional to allow for ease of use. 
+The header and footer are the same across the site.
 Balsamiq wireframes were used to design rough outlines of what the site would look like.
 
 ### Surface
-The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. 
+The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. Minimizing cognative overload.
 
 ## Features
 
 
 1. Existing Features
+
+Each page has a Book Me button that brings the user to the contact page to encourage interation with the clinic.
+There is an iframe element that brings the user to the exact loction of the clinic which is compatable with their google maps.
+
 
 
 2. Features Left to Implement
