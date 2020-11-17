@@ -31,6 +31,11 @@
 }
 
 /* ---------------------------------------- Nav Bar */
+
+.navbar{
+    padding-left: 0;
+    padding-right: 0; 
+}
 nav ul{
      display: flex;
     justify-content: space-between;
@@ -52,6 +57,10 @@ nav ul{
 .nav-link{
     text-align: center;
 }
+
+.navbar-toggler {
+    margin-left: auto;
+}
 /* ---------------------------------------- landing page */
 
 .hero-image{
@@ -66,7 +75,7 @@ nav ul{
 }
 .hero-image .btn {
   position: absolute;
-  top: 50%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -81,10 +90,20 @@ nav ul{
 .hero-image .btn:hover {
   background-color:rgb(96, 171, 221);
 }
+
+.testimonials {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
 /* ----------------------------------------Special paddings/margins/text */
 
 .uppercase {
     text-transform: uppercase;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 /* ----------------------------------------jumbotron */
