@@ -41,6 +41,14 @@ Good interface and Navigation design. Navigation is common and conventional to a
 The header and footer are the same across the site.
 Balsamiq wireframes were used to design rough outlines of what the site would look like.
 
+[Home page](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/about-us.png)
+
+[About us](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/about-us.png)
+
+[Services](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/services.png)
+
+[Contact us](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/contact-us.png)
+
 ### Surface
 The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. Minimizing cognative overload.
 
@@ -61,18 +69,24 @@ This would allow clients to see available time slots and be able to select the d
 It would facilitate a quick and easy bookling process. 
 
 ## Technologies Used
-1. CSS
-2. HTML
-3. BootStrap
-4. Balsamiq wireframes
+1. CSS programming language
+2. HTML programming language
+3. [BootStrap](https://getbootstrap.com/)
+* To create a responsive structure for the website. 
+4. [Balsamiq wireframes](https://balsamiq.com/wireframes/)
 * used to create mock ups of what the site will look like
-5. Fontawesome
-6. Google Font
-7. Gitpod
-8. Shuttershock
-9. w3schools.com
-10. [HTML Formater](https://www.freeformatter.com/html-formatter.html#ad-output)
+5. [Fontawesome](https://fontawesome.com/)
+*To create icons for the website
+6. [Google Font](https://fonts.google.com/)
+*Was used to style the fonts used in the website
+7. [Gitpod](https://gitpod.io/workspaces/)
+*To build and develop code
+8. [w3schools](w3schools.com)
+*Libary of HTML, CSS and bootstrap examples to help build sections of the code.
+9. [HTML Formater](https://www.freeformatter.com/html-formatter.html#ad-output)
 * To beatify HTML code
+10. [W3C validator Service](https://validator.w3.org/#validate_by_input)
+*To validate HTML code
 
 ## Testing
 
