@@ -148,6 +148,7 @@ button[type="submit"] {
 .call_out_heading {
     text-align: center;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .contacts i {
