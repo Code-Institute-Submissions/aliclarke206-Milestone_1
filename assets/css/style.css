@@ -106,37 +106,6 @@ nav ul{
     margin-left: 0px;
 }
 
-/* ----------------------------------------jumbotron */
-
-.slide-show{
-    text-align: center;
-}
-
-/* ----------------------------------------carousel */
-.carousel-inner .carousel-item .image_3 {
-  width:80%;
-  height:100%;
-}
-
-.carousel-inner img {
-    text-align: center;
-    opacity: 0.6;
-    margin-left: 0;
-    margin-right: 0;
-}
-
-@media only screen and (max-width: 600px) {
-.carousel-caption{
-    font-weight: 300;
-    font-size: 5px;
-}
-
-.carousel-caption h3{
-    font-size: 10px;
-}
-}
-
-
 /* ----------------------------------------Services */
 .services p {
     display: block;
@@ -183,6 +152,8 @@ footer {
 .social-links li a i:hover {
     background: #e84610;
 }
+
+
 /* ----------------------------------------Contact Us */
 button[type="submit"] {
     margin-top: 15px;
