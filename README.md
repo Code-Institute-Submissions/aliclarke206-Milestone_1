@@ -28,19 +28,24 @@ The customer needs to feel confident that this business can provide the service 
 
 A site designed for patients both new and existing to obatin information about the clinics services and therapists.
 It also a place where patients can see whats on offer and hear customer reviews and make further enquiries or bookings. 
-
+Essentially an online calling card for the clinic.
 
 ### Scope
 
-For patients, I wanted to provide them with easy accesible links to information they required about the clinic.
+For patients, I wanted to provide them with features to easy accesible links to information they required about the clinic.
 Provide information about each therapist, each service that is provided, location, openning hours and how to make an appointment.
 Providing the practical information that is required by the customer. 
 
 ### Structure
 
+The information should be structured in a user friendly way and logically grouped. All services are grouped together, all information about the therapists in a seperate section, and all methods of contact grouped together.
+Structured in a way that leads from the user seeing all the services and information provided to finish with an option to book now or make contact. 
+
 ### Skeleton
-Good interface and Navigation design. Navigation is common and conventional to allow for ease of use. 
+Good interface and Navigation design. Navigation bar is common and conventional to allow for ease of use. 
 The header and footer are the same across the site.
+Content is positioned centrally in an easy to read format. 
+The Nav bar collapses to hamburger button on mobile device which is also a common tool used and will allow for easy naviagtion on mobile device.
 Balsamiq wireframes were used to design rough outlines of what the site would look like.
 
 [Home page](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/about-us.png)
@@ -52,15 +57,25 @@ Balsamiq wireframes were used to design rough outlines of what the site would lo
 [Contact us](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/contact-us.png)
 
 ### Surface
-The minamilist colour scheme was to create a clean clinical feel that coincides with a medical practice. Minimizing cognative overload.
+The minamilist colour scheme was to create a clean and clinical feel that coincides with a medical practice. Minimizing cognative overload.
 
 ## Features
 
 
 1. Existing Features
 
-Each page has a Book Me button that brings the user to the contact page to encourage interation with the clinic.
-There is an iframe element that brings the user to the exact loction of the clinic which is compatable with their google maps.
+* The clinic name and logo remain consistant amoung all pages for familiarity.
+* The footer also remains consisent across pages and contain contact information and external links to socail media. 
+* A responsive Navigation bar that allows the user to easily browse throughtout the site either on mobile or desktop. The active page is also highlighted while in use for greater user experience.
+* Each page has a Book Me button that brings the user to the contact page to encourage interation with the clinic.
+* The home page has a large hero image to give maximum impact when landing on the page. 
+* There are some testimoanls in the home page from previous clients that encourage user satisfaction with the clinic.
+* The about us page has the qualifications and small background about the clinic so the customer can get to know the therapist and the type of injuries that they cover. 
+* Logos of well known insurnace companies are featured to agin reinforce familiarity for user and that treatment under these compamies are covered.
+* The services page has a brief description and picture of what services we provide without overloading the user with text.
+* There is also an external link provied if a user would like to learn more about the Alter G treadmill.
+* The contact page provides a form which enables the customer to fill out in return for a call back. The contact and loctation information is also provided again.
+* There is an iframe element that brings the user to the exact location of the clinic which is compatitable with their google maps.
 
 
 
@@ -92,12 +107,18 @@ It would facilitate a quick and easy bookling process.
 
 ## Testing
 
+The  responsive navigation bar successfully becomes a hamburger menu on mobile device and the dropdown menu acts correctly to navigate throughout the site. 
+
 All social links were created using the "target=_blank" attribute in footer to ensure the pages are laoded on a seperate page.
 The have been linked with the homepages for Facebook, Twitter, Linkedin and Instagram as it is a fictional website and no linked accounts exist.  
 They have all been manually tested to ensure correct naviagtion of the links.
 
 On the contact us page, the Name, email address, contact number and text area are all required fields and will not submit otherwise.
 The email input must contain a valid email address and numbers are only accepted in the email section.
+
+The Book Me button succesfully re directs users to contact page. 
+
+By clicking the logo the user is also successfully redirected back to the home page.
 
 The iframe succesfully naviagates to the google maps link of the location of the clinc.
 
