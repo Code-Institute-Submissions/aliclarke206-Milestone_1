@@ -99,11 +99,15 @@ It would facilitate a quick and easy bookling process.
 7. [Gitpod](https://gitpod.io/workspaces/)
 * To build and develop code
 8. [w3schools](w3schools.com)
-* Libary of HTML, CSS and bootstrap examples to help build sections of the code.
-9. [HTML Formater](https://www.freeformatter.com/html-formatter.html#ad-output)
+* To help with formatting and styles.
+9. [Stackoverflow](https://stackoverflow.com/)
+* The forums were useful for styling issues.
+10. [HTML Formater](https://www.freeformatter.com/html-formatter.html#ad-output)
 * To beatify HTML code
-10. [W3C validator Service](https://validator.w3.org/#validate_by_input)
+11. [W3C validator Service](https://validator.w3.org/#validate_by_input)
 * To validate HTML code
+12. [W3C CSS validator service](https://jigsaw.w3.org/css-validator/validator)
+* To validate CSS code
 
 ## Testing
 
@@ -164,7 +168,8 @@ Text content for the site explaining services and therapists was obtained from [
 
 3. Code
 * CSS code for footer social links hoover and transition logo was from previous code institute lessons and edited.
-* [w3school]( https://www.w3schools.com/default.asp) was used to help format page and edited to fit the site.
+* [w3school]( https://www.w3schools.com/default.asp) was used to help format pages with bootstrap and edited to fit the site.
 
 4. Acknowledgements
-
+* I got inspiration for the project from my own experience working in a sports injury clinic and wanted to create a place for all the information that is usually asked for in the practice.
+* My mentor, Brian Macharia for helping me along the way. 

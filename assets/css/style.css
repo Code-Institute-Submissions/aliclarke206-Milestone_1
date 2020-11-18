@@ -1,15 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
 
-.body{
-    padding: 30px;
-}
-
-/* ---------------------------------------- background colours */
-
-.about-us{
-    background-color: #f1faf9;
-}
 /* ---------------------------------------- logo and name */
 
 .logo {
@@ -119,7 +110,7 @@ nav ul{
     text-align: center;
 }
 
-.services_image {
+.services-image {
     display: inline-block;
     padding-top: 20px;
     width: 150px;
@@ -127,6 +118,7 @@ nav ul{
     border-radius: 50%;
 }
 /* ----------------------------------------Footer */
+
 footer {
     background-color: #525252;
     color: #fafafa;
@@ -203,21 +195,13 @@ iframe {
     text-align: center;
 }
 
-
 /* ----------------------------------------About us */
 
 .about-us {
     padding: 2em;
 }
 
-.clinic-info{
-    padding-top: 30px;
-}
-
 .about-us h3{
     padding-bottom: 20px;
 }
 
-.insurance{
-    background-repeat: no-repeat;
-}
