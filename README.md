@@ -149,22 +149,25 @@ The GitHub repository was then deployed to GitHub pages by:
 
 
 ## Credits
-1. Content 
-Text content for the site explaining services and therapists was obtained from [Ratoath sports injury clinic](http://www.ratoathsportsinjurycentre.ie/index.html)
-2. Media 
-### images
+1.Content 
 
-[Insurance logo image](http://www.ratoathsportsinjurycentre.ie/what-we-treat.html)
+*Text content for the site explaining services and therapists was obtained from [Ratoath sports injury clinic](http://www.ratoathsportsinjurycentre.ie/index.html)
 
-[Acupuncture Image](https://www.healthline.com/health-news/acupuncture-effective-reducing-indigestion-symptoms)
+2.Media 
 
-[Cyro Spa Image](https://www.adverts.ie/healthcare/cryospa-ice-bath-unit/13193285)
+#### Images
 
-[Iframe Image](http://google.ie/maps)
+* [Insurance logo image](http://www.ratoathsportsinjurycentre.ie/what-we-treat.html)
 
-[Alter-g Treadmill](https://fredericksportandspine.com/alter-g-anti-gravity-treadmill/)
+* [Acupuncture Image](https://www.healthline.com/health-news/acupuncture-effective-reducing-indigestion-symptoms)
 
-[Avatar icon](https://www.flaticon.com/free-icon/avatar_194938)
+* [Cyro Spa Image](https://www.adverts.ie/healthcare/cryospa-ice-bath-unit/13193285)
+
+* [Iframe Image](http://google.ie/maps)
+
+* [Alter-g Treadmill](https://fredericksportandspine.com/alter-g-anti-gravity-treadmill/)
+
+* [Avatar icon](https://www.flaticon.com/free-icon/avatar_194938)
 
 3. Code
 * CSS code for footer social links hoover and transition logo was from previous code institute lessons and edited.
@@ -173,3 +176,4 @@ Text content for the site explaining services and therapists was obtained from [
 4. Acknowledgements
 * I got inspiration for the project from my own experience working in a sports injury clinic and wanted to create a place for all the information that is usually asked for in the practice.
 * My mentor, Brian Macharia for helping me along the way. 
+
