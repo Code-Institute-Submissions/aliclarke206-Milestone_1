@@ -124,17 +124,33 @@ The iframe succesfully naviagates to the google maps link of the location of the
 
 The link for more information on the Alter G also successfully navigates the user to the Alter G homepage in a seperate tab.
 
+The website is responsive on different size screens and elements respond appropriately across the different screen sizes. One problem that arised from this was the navbar toggler automatically floated left. Margin-left: auto had to be added to CSS in order to float the toggler which is a much more common position.  
+
+The project was also tested on multuple browsers (chrome, microsft edge, internet explorer, and firefox) to ensure compatability and responsiveness. 
+
 The HTML was checked using the [W3C validator Service](https://validator.w3.org/#validate_by_input)
 
 The CSS was checked using the [W3C CSS validator service](https://jigsaw.w3.org/css-validator/validator)
+
 ## Deployment
+A respository was created on Githun and Gitpod was used to write the code. The code was commited and pushed to Github regularly to ensure it was saved.
+The GitHub respository was then deployed to GitHub pages by:
+1. Logging into GitHub
+2. Selecting repositories and then Milestone_1
+3. Then select settings from the top menu bar.
+4. Under GitHub pages
+5. Under source , select master branch.
+6. The website is now deployed and a link appears for the deployed site.
+7. This link can now be cloned and run locally. 
+
 
 ## Credits
 1. content 
+Text content for the site explaining services and therapists was obtained from [Ratoath sports injury clinic](http://www.ratoathsportsinjurycentre.ie/index.html)
 2. Media 
 ### images
 
-[Physical Therapy Image](https://intermountainhealthcare.org/blogs/topics/live-well/2017/12/pain-in-the-neck-the-benefits-of-physical-therapy-and-knowing-when-you-need-it/)
+[Insurance logo image](http://www.ratoathsportsinjurycentre.ie/what-we-treat.html)
 
 [Acupuncture Image](https://www.healthline.com/health-news/acupuncture-effective-reducing-indigestion-symptoms)
 
@@ -146,5 +162,9 @@ The CSS was checked using the [W3C CSS validator service](https://jigsaw.w3.org/
 
 [Avatar icon](https://www.flaticon.com/free-icon/avatar_194938)
 
-3. Acknowledgements
+3. Code
+* CSS code for footer social links hoover and transition logo was from previous code institute lessons and edited.
+* [w3school]( https://www.w3schools.com/default.asp) was used to help format page and edited to fit the site.
+
+4. Acknowledgements
 
