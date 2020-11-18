@@ -81,7 +81,7 @@ The minamilist colour scheme was to create a clean and clinical feel that coinci
 
 2. Features Left to Implement
 
-I think a great feature to add would be a direct online booking system to the website. 
+* I think a great feature to add would be a direct online booking system to the website. 
 This would allow clients to see available time slots and be able to select the desired therapist or service.
 It would facilitate a quick and easy bookling process. 
 
@@ -125,14 +125,14 @@ The iframe succesfully naviagates to the google maps link of the location of the
 The link for more information on the Alter G also successfully navigates the user to the Alter G homepage in a seperate tab.
 
 The HTML was checked using the [W3C validator Service](https://validator.w3.org/#validate_by_input)
+
+The CSS was checked using the [W3C CSS validator service](https://jigsaw.w3.org/css-validator/validator)
 ## Deployment
 
 ## Credits
 1. content 
 2. Media 
-images
-
-[Carosel image one](http://dundalkphysicaltherapy.com/)
+### images
 
 [Physical Therapy Image](https://intermountainhealthcare.org/blogs/topics/live-well/2017/12/pain-in-the-neck-the-benefits-of-physical-therapy-and-knowing-when-you-need-it/)
 
