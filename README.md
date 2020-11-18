@@ -1,24 +1,26 @@
-# Mile Stone Project One
+# Alison Clarke - Mile Stone Project One
 # Sports Injury Clinic Website
 
-A comprehensive website designed to make it easy for potential new clients and existing clients to attain valuable information about the buisness and its services. 
-The website includes information about the services provided in the clinic, the skills and qualifications of the staff, contact information and links on where to find the clinic. 
+A comprehensive website designed to make it easy for existing clients and potential new clients to attain valuable information about the buisness and its services. 
+The website includes information about the services provided in the clinic, the skills and qualifications of the staff, testimonials from past clients, contact information and links on where to find the clinic. 
+
+The website needs supply as much information as possible about the services and qualifications to encourage a potential client to get in contact.
+The customer needs to feel confident that this business can provide the service that they are looking for.
 
 
 ### Buiness Goals
-1. Easy to use and find information
-2. Customers to learn about therapists and services provided 
-3. Encourage a point of contact for potenial appointment
-4. increase bookings 
+1. Create some clinic awareness and a place for customers to find some instant information.
+2. Customers to learn about therapists and services provided.
+3. Encourage a point of contact for potenial appointment.
+4. Increase bookings.
 
 ### Customer Goals
-1. Find information on services (What do they provide?)
+1. Find information out information about services (What do they provide?)
 2. Where can I find them? 
 3. Reviews and ratings
 4. Social media links
 5. Getting the practical information
 
-Essentially, this part is your sales pitch.
 
 ## UX
 
@@ -76,17 +78,17 @@ It would facilitate a quick and easy bookling process.
 4. [Balsamiq wireframes](https://balsamiq.com/wireframes/)
 * used to create mock ups of what the site will look like
 5. [Fontawesome](https://fontawesome.com/)
-*To create icons for the website
+* To create icons for the website
 6. [Google Font](https://fonts.google.com/)
-*Was used to style the fonts used in the website
+* Was used to style the fonts used in the website
 7. [Gitpod](https://gitpod.io/workspaces/)
-*To build and develop code
+* To build and develop code
 8. [w3schools](w3schools.com)
-*Libary of HTML, CSS and bootstrap examples to help build sections of the code.
+* Libary of HTML, CSS and bootstrap examples to help build sections of the code.
 9. [HTML Formater](https://www.freeformatter.com/html-formatter.html#ad-output)
 * To beatify HTML code
 10. [W3C validator Service](https://validator.w3.org/#validate_by_input)
-*To validate HTML code
+* To validate HTML code
 
 ## Testing
 
@@ -99,7 +101,7 @@ The email input must contain a valid email address and numbers are only accepted
 
 The iframe succesfully naviagates to the google maps link of the location of the clinc.
 
-the link for more information on the Alter G also successfully navigates the user to the Alter G homepage.
+The link for more information on the Alter G also successfully navigates the user to the Alter G homepage in a seperate tab.
 
 The HTML was checked using the [W3C validator Service](https://validator.w3.org/#validate_by_input)
 ## Deployment
@@ -120,6 +122,8 @@ images
 [Iframe Image](http://google.ie/maps)
 
 [Alter-g Treadmill](https://fredericksportandspine.com/alter-g-anti-gravity-treadmill/)
+
+[Avatar icon](https://www.flaticon.com/free-icon/avatar_194938)
 
 3. Acknowledgements
 
