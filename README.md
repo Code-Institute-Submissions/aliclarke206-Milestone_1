@@ -11,7 +11,7 @@ The customer needs to feel confident that this business can provide the service 
 ### Buiness Goals
 1. Create some clinic awareness and a place for customers to find some instant information.
 2. Customers to learn about therapists and services provided.
-3. Encourage a point of contact for potenial appointment.
+3. Encourage a point of contact for potential appointment.
 4. Increase bookings.
 
 ### Customer Goals
@@ -27,14 +27,14 @@ The customer needs to feel confident that this business can provide the service 
 ### Strategy
 
 A site designed for patients both new and existing to obatin information about the clinics services and therapists.
-It also a place where patients can see whats on offer and hear customer reviews and make further enquiries or bookings. 
+It's also a place where patients can see whats on offer and hear customer reviews and make further enquiries or bookings. 
 Essentially an online calling card for the clinic.
 
 ### Scope
 
 For patients, I wanted to provide them with features to easy accesible links to information they required about the clinic.
 Provide information about each therapist, each service that is provided, location, openning hours and how to make an appointment.
-Providing the practical information that is required by the customer. 
+In essence, providing the practical information that is required by the customer. 
 
 ### Structure
 
@@ -57,7 +57,7 @@ Balsamiq wireframes were used to design rough outlines of what the site would lo
 [Contact us](https://github.com/aliclarke206/Milestone_1/blob/b6243fabbf2882f512bd825280447cdb6004b736/wireframes/contact-us.png)
 
 ### Surface
-The minamilist colour scheme was to create a clean and clinical feel that coincides with a medical practice. Minimizing cognative overload.
+The minamilist colour scheme was to create a clean and clinical feel that coincides with a medical practice. This minimizes cognitive overload.
 
 ## Features
 
@@ -65,7 +65,7 @@ The minamilist colour scheme was to create a clean and clinical feel that coinci
 1. Existing Features
 
 * The clinic name and logo remain consistant amoung all pages for familiarity.
-* The footer also remains consisent across pages and contain contact information and external links to socail media. 
+* The footer also remains consisent across pages and contains contact information and external links to socail media. 
 * A responsive Navigation bar that allows the user to easily browse throughtout the site either on mobile or desktop. The active page is also highlighted while in use for greater user experience.
 * Each page has a Book Me button that brings the user to the contact page to encourage interation with the clinic.
 * The home page has a large hero image to give maximum impact when landing on the page. 
@@ -83,7 +83,7 @@ The minamilist colour scheme was to create a clean and clinical feel that coinci
 
 * I think a great feature to add would be a direct online booking system to the website. 
 This would allow clients to see available time slots and be able to select the desired therapist or service.
-It would facilitate a quick and easy bookling process. 
+It would facilitate a quick and easy booking process. 
 
 ## Technologies Used
 1. CSS programming language
@@ -111,7 +111,7 @@ It would facilitate a quick and easy bookling process.
 
 ## Testing
 
-The  responsive navigation bar successfully becomes a hamburger menu on mobile device and the dropdown menu acts correctly to navigate throughout the site. 
+The responsive navigation bar successfully becomes a hamburger menu on mobile device and the dropdown menu acts correctly to navigate throughout the site. 
 
 All social links were created using the "target=_blank" attribute in footer to ensure the pages are laoded on a seperate page.
 The have been linked with the homepages for Facebook, Twitter, Linkedin and Instagram as it is a fictional website and no linked accounts exist.  
@@ -137,19 +137,19 @@ The HTML was checked using the [W3C validator Service](https://validator.w3.org/
 The CSS was checked using the [W3C CSS validator service](https://jigsaw.w3.org/css-validator/validator)
 
 ## Deployment
-A respository was created on Githun and Gitpod was used to write the code. The code was commited and pushed to Github regularly to ensure it was saved.
-The GitHub respository was then deployed to GitHub pages by:
+A repository was created on GitHub and Gitpod was used to write the code. The code was commited and pushed to Github regularly to ensure it was saved.
+The GitHub repository was then deployed to GitHub pages by:
 1. Logging into GitHub
 2. Selecting repositories and then Milestone_1
 3. Then select settings from the top menu bar.
 4. Under GitHub pages
-5. Under source , select master branch.
+5. Under source, select master branch.
 6. The website is now deployed and a link appears for the deployed site.
 7. This link can now be cloned and run locally. 
 
 
 ## Credits
-1. content 
+1. Content 
 Text content for the site explaining services and therapists was obtained from [Ratoath sports injury clinic](http://www.ratoathsportsinjurycentre.ie/index.html)
 2. Media 
 ### images
